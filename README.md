@@ -16,6 +16,8 @@ N/A
 
 You can view each section for information pertaining to different marketing topics.
 
+Link to site: https://mimosquera.github.io/bootcamp-hw-1/
+
 ## Credits
 
 N/A
